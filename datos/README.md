@@ -1,5 +1,6 @@
 # Datos
 
-Esta carpeta contiene la documentación de las fuentes de datos utilizadas en la investigación.
+Esta carpeta contiene las bases de datos utilizadas en la investigación.
 
-Los archivos de datos se incorporarán únicamente después de verificar que pueden compartirse públicamente.
+- `Papa_03-01-2022_al_30-06-2026.xlsx`: registros históricos del precio de la papa súper chola en Riobamba.
+- `Clima_03-01-2022_al_30-06-2026.xlsx`: registros de las variables climáticas utilizadas en los modelos con variables exógenas.
