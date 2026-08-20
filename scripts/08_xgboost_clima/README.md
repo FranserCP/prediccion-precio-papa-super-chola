@@ -1,5 +1,5 @@
-# Modelo XGBoost con variables climáticas
+# Modelo XGBoost semanal con clima
 
-Esta carpeta contendrá el script en R utilizado para desarrollar y evaluar el modelo XGBoost semanal, que incorpora el historial del precio y variables climáticas.
+Esta carpeta contiene el script en R utilizado para desarrollar y evaluar el modelo XGBoost semanal del precio de la papa súper chola, incorporando variables climáticas.
 
-El código definitivo se incorporará después de corregir y validar el modelo.
+- `Modelo_XGBoost_Semanal_Clima.R`: código para el procesamiento de los datos de precio y clima, preparación de variables, ajuste de hiperparámetros, entrenamiento, evaluación y generación de resultados del modelo.
