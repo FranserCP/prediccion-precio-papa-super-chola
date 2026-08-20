@@ -1,5 +1,5 @@
-# Modelo ARIMA
+# Modelo ARIMA semanal
 
-Esta carpeta contendrá el script en R utilizado para desarrollar y evaluar el modelo ARIMA semanal basado en el historial del precio.
+Esta carpeta contiene el script en R utilizado para desarrollar y evaluar el modelo ARIMA aplicado a la serie semanal del precio de la papa súper chola.
 
-El código definitivo se incorporará después de corregir y validar el modelo.
+- `Modelo_ARIMA_Semanal.R`: código para el procesamiento de la serie, entrenamiento, evaluación y generación de resultados del modelo ARIMA semanal.
