@@ -1,5 +1,5 @@
-# Modelo SARIMA
+# Modelo SARIMA semanal
 
-Esta carpeta contendrá el script en R utilizado para desarrollar y evaluar el modelo SARIMA semanal basado en el historial del precio.
+Esta carpeta contiene el script en R utilizado para desarrollar y evaluar el modelo SARIMA aplicado a la serie semanal del precio de la papa súper chola.
 
-El código definitivo se incorporará después de corregir y validar el modelo.
+- `Modelo_SARIMA_semanal.R`: código para el procesamiento de la serie, entrenamiento, evaluación y generación de resultados del modelo SARIMA semanal.
