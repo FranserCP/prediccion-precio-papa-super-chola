@@ -1,5 +1,5 @@
-# Modelo Random Forest con historial del precio
+# Modelo Random Forest semanal
 
-Esta carpeta contendrá el script en R utilizado para desarrollar y evaluar el modelo Random Forest semanal basado únicamente en el historial del precio.
+Esta carpeta contiene el script en R utilizado para desarrollar y evaluar el modelo Random Forest aplicado a la serie semanal del precio de la papa súper chola, utilizando variables derivadas del historial del precio.
 
-El código definitivo se incorporará después de corregir y validar el modelo.
+- `Modelo_Random_Forest_Regressor_Semanal.R`: código para la preparación de variables, entrenamiento, evaluación y generación de resultados del modelo Random Forest semanal.
