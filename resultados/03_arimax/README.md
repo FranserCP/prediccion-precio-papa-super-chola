@@ -1,5 +1,11 @@
-# Resultados del modelo ARIMAX
+# Resultados del modelo ARIMAX semanal
 
-Esta carpeta contendrá los resultados definitivos del modelo ARIMAX semanal, que incorpora el historial del precio y variables climáticas.
+Esta carpeta contiene los resultados obtenidos mediante el modelo ARIMAX aplicado a la serie semanal del precio de la papa súper chola, incorporando variables climáticas rezagadas como variables exógenas.
 
-Los archivos podrán incluir tablas en Excel, gráficos e informes en PDF, una vez que el modelo haya sido corregido y validado.
+- `Resultados_ARIMAX_Semanal.xlsx`: métricas de evaluación, valores observados, predicciones y resultados consolidados.
+
+- `arimax_s_test.pdf`: representación gráfica de la evaluación del modelo en el conjunto de prueba.
+
+- `Grafico_arimax_s_hist_y_pred.pdf`: comparación entre la serie histórica y las predicciones del modelo.
+
+- `Grafico_arimax_s_solo_pred.pdf`: visualización de las predicciones generadas por el modelo.
