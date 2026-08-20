@@ -1,7 +1,13 @@
-# Resultados del modelo XGBoost con historial del precio
+# Resultados del modelo XGBoost semanal sin clima
 
-Esta carpeta contendrá los resultados definitivos del modelo XGBoost semanal basado únicamente en el historial del precio.
+Esta carpeta contiene los resultados obtenidos mediante el modelo XGBoost aplicado a la serie semanal del precio de la papa súper chola, utilizando únicamente variables derivadas del historial del precio.
 
-Este modelo obtuvo el mejor desempeño predictivo entre las configuraciones evaluadas en la investigación.
+- `Resultados_XGBoost_Semanal.xlsx`: métricas de evaluación, valores observados, predicciones y resultados consolidados.
 
-Los archivos podrán incluir tablas en Excel, gráficos e informes en PDF, una vez que el modelo haya sido corregido y validado.
+- `xgb_s_test.pdf`: representación gráfica de la evaluación del modelo en el conjunto de prueba.
+
+- `Grafico_xgb_s_hist_y_pred.pdf`: comparación entre la serie histórica y las predicciones del modelo.
+
+- `Grafico_xgb_s_solo_pred.pdf`: visualización de las predicciones generadas por el modelo.
+
+- `Grafico_xgb_s_importancia.pdf`: importancia de las variables predictoras utilizadas por el modelo.
